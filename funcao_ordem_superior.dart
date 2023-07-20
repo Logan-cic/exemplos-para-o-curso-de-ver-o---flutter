@@ -1,5 +1,3 @@
-// 2.1: Funções de ordem superior
-
 // (Conceito) Função de ordem superior: uma função que recebe ou retorna
 // função(s) como argumento(s).
 

@@ -1,4 +1,3 @@
-// 2.2: Funções puras e transparência referencial
 import 'dart:math';
 
 // (Conceito) Funções puras: uma função que (1) produz a mesma saída para a mesma
